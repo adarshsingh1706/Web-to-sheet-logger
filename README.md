@@ -104,8 +104,6 @@ function createSaveButton(e, text) {
 
 ## 🖼️ UI Preview
 
-## 🖼️ UI Preview
-
 <img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/extension.png" alt="Extension" width="300"/><br/><br/><br/>
 <img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/save.png" alt="Save button" width="300"/><br/><br/><br/>
 <img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/loading.png" alt="Loading state" width="300"/><br/><br/><br/>
