@@ -15,13 +15,20 @@
   },
 
   
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting","webRequest", "storage"],
 
+  "background": {
+    "service_worker": "background.js"
+  },
 
+  "host_permissions": [
+    "https://script.google.com/*"
+  ],
+  
   "content_scripts": [
     {
       "matches": ["<all_urls>"],  
-      "js": ["content.js"]  
+      "js": ["env.js","content.js"]  
     }
   ],
 
