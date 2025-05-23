@@ -104,11 +104,14 @@ function createSaveButton(e, text) {
 
 ## 🖼️ UI Preview
 
-![Extension](/public/extension.png)  
-![Save button](/public/save.png)  
-![Loading state](/public/loading.png)  
-![After saving toast](/public/saved.png)  
-![Duplicate entry](/public/duplicate.png)
+## 🖼️ UI Preview
+
+<img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/extension.png" alt="Extension" width="300"/><br/><br/><br/>
+<img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/save.png" alt="Save button" width="300"/><br/><br/><br/>
+<img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/loading.png" alt="Loading state" width="300"/><br/><br/><br/>
+<img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/saved.png" alt="After saving toast" width="300"/><br/><br/><br/>
+<img src="https://github.com/adarshsingh1706/Web-to-sheet-logger/raw/main/public/duplicate.png" alt="Duplicate entry" width="300"/><br/><br/>
+
 
 ---
 ## ✅ Testing
